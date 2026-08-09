@@ -1,0 +1,6 @@
+{
+  "name": "ABTalks — 60-Day Coding Challenge",
+  "description": "A premium, mobile-first web application for the ABTalks 60-Day Coding Challenge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
